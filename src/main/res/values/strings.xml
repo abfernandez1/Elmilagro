@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">pinkcal</string>
+    <!-- Text -->
+    <string name="text_logo">P</string>
+    <string name="text_welcome">Welcome to PlanHall</string>
+    <string name="text_introduction">Manage your time</string>
+    <string name="text_signin">Sign In</string>
+    <string name="text_signup">Sign Up</string>
+    <string name="text_signup2">Don\'t have an account?</string>
+    <string name="text_signup3"> Sign up.</string>
+    <string name="text_upcoming_event">Upcoming events</string>
+    <string name="text_favorite">Favorites</string>
+    <string name="text_template">Templates</string>
+    <string name="text_private_event">Private events</string>
+    <string name="text_shared_event">Shared events</string>
+    <string name="text_event">Events</string>
+    <string name="text_user">Users</string>
+    <string name="text_event_user">Events with other users</string>
+    <!-- Componentes -->
+    <string name="edit_email">Email</string>
+    <string name="edit_password">Password</string>
+    <string name="edit_confirmpassword">Confirm Password</string>
+    <string name="edit_name">Name</string>
+    <string name="ckeck_password">Show Password</string>
+    <string name="title_activity_navigation">navigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_groups">Groups</string>
+    <string name="select">Select</string>
+    <string name="accept">Accept</string>
+    <string name="Periodo">periodo</string>
+    <string name="periodo">Periodo</string>
+    <string name="text_plantillas">Plantillas</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="acepttar">Aceptar</string>
+    <string name="text_proxevents">Proximos Eventos</string>
+    <string name="text_favoritos">Favoritos</string>
+    <string name="pinkcal">pinkcal</string>
+    <string-array name="Type">
+        <item>Text</item>
+        <item>Time</item>
+        <item>Number</item>
+    </string-array>
+</resources>

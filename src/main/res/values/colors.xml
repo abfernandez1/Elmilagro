@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="blanco">#FFFF</color>
+    <color name="white" >#FFFF</color>
+    <color name="Violet">#B691B2</color>
+    <color name="Pink">#DD68A7</color>
+    <color name="Whit">#FFFF</color>
+    <color name="grey_900">#212121</color>
+    <color name="grey_50">#FAFAFA</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_400">#BDBDBD</color>
+</resources>

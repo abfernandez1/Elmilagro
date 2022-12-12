@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base de la Application. -->
+    <style name="Theme.pinkcal." parent="Theme.MaterialComponents.DayNight.NoActionBar.Bridge">
+        <!-- color principal. -->
+        <item name="colorPrimary">@color/Violet</item>
+        <item name="colorPrimaryVariant">@color/Pink</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- color secondary. -->
+        <item name="colorSecondary">@color/Violet</item>
+        <item name="colorSecondaryVariant">@color/Pink</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- color de la barra. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- personalize el tem . -->
+        <item name="colorAccent">@color/black</item>
+        <item name="fontFamily">sans-serif-light</item>
+    </style>
+    <style name="font" parent="Theme.pinkcal.">
+        <item name="fontFamily">@font/monogram</item>
+    </style>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pinkcal">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo_para_login"
+        android:label="@string/pinkcal"
+        android:roundIcon="@mipmap/logo_para_login"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.pinkcal">
+        <activity
+            android:name="com.example.pinkcal.Add_event"
+            android:exported="true" />
+        <activity
+            android:name="com.example.pinkcal.MainActivity"
+            android:exported="true"
+            android:label="@string/pinkcal" />
+        <activity
+            android:name="com.example.pinkcal.Logup"
+            android:exported="true" />
+
+        <activity
+            android:name=".ViewEventosActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".EventosActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.pinkcal.Login"
+            android:exported="true" />
+        <activity
+            android:name="com.example.pinkcal.Splash_screen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
